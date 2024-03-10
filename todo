@@ -1,0 +1,15 @@
+[x] server setup
+[x] mongo connection
+[x] user model (name, email, password, role:{admin, user}, status: {active, inactive})
+[x] signup
+    - first user role - admin
+    - rest of user role - user
+[x] login
+[x] update profile 
+    - user can change own profile name, eg. user one -> potanuj name change kri sake, admin game enu kri sake
+[x] reset password
+    - user potanoj change kari sake, admin ne kai leva deva nai
+[x] forgot password
+    - user potanoj change kari sake, admin ne kai leva deva nai
+[?w] active/inactive user profile
+    - only admin j kari sake, once inactive kri dey to e user login no kari sake
